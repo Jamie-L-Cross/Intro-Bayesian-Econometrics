@@ -1,2 +1,2 @@
 # Bayes
-Introduction to Bayesian Econometrics
+Set of Jupyter notebooks for a course titled "Introduction to Bayesian Econometrics".
